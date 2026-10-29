@@ -1,0 +1,13 @@
+target/
+project/target/
+project/project/
+.bsp/
+.idea/
+.metals/
+.bloop/
+
+# Local podman Gravitino + S3 test stack (scripts, generated secrets, data, jars)
+dev-stack/
+
+# Claude Code project instructions (local only)
+CLAUDE.md
